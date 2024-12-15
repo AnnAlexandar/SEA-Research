@@ -1,4 +1,4 @@
-Table 13.11. Access to Internet Services in ASEAN, 2013-2022 (per 100 persons)
+# Table 13.11. Access to Internet Services in ASEAN, 2013-2022 (per 100 persons)
 Year,Brunei_Darussalam,Cambodia,Indonesia,Lao_PDR,Malaysia,Myanmar,Philippines,Singapore,Thailand,Viet_Nam,ASEAN
 2013,64.5,6.8,14.9,12.5,67.0,8.0,37.0,81.0,28.9,43.9,26.1
 2014,68.8,9.0,17.1,14.3,67.5,11.5,39.7,82.0,34.9,48.3,28.9
@@ -10,8 +10,8 @@ Year,Brunei_Darussalam,Cambodia,Indonesia,Lao_PDR,Malaysia,Myanmar,Philippines,S
 2020,95.0,78.8,73.7,N/A,89.6,90.9,N/A,95.0,77.8,70.2,65.8
 2021,98.1,60.2,77.0,57.0,96.8,44.0,52.7,96.9,83.6,70.2,70.4
 2022,98.1,60.2,77.0,60.0,97.4,44.0,52.7,96.0,86.7,78.6,72.0
-
-Source,Notes
-ASEAN Secretariat,Internet Subscribers Services per 100 persons
-ITU Database 2022,ASEAN figure for 2020-2021 is estimated as data for some AMS are not available
-N/A,Not available at the time of publication
+# Source: ASEAN Secretariat
+# Notes:
+# - Internet Subscribers Services per 100 persons
+# - ASEAN figure for 2020-2021 is estimated as data for some AMS are not available
+# - N/A: Not available at the time of publication
